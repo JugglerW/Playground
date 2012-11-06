@@ -9,6 +9,6 @@ public class Test
 
     public int getNumber()
     {
-        return 10;
+        return 15;
     }
 }
